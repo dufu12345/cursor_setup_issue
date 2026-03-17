@@ -17,6 +17,6 @@ This fix was originally shared by **"冷冷的火花"**. If your installation is
 
 ### Reference
 Here is the original suggestion (in Chinese):
-![Solution Source](./image_1153a5.png)
+https://linux.do/t/topic/447351/6
 
 *Note: This solution also applies to similar issues found during Windsurf installations.*
